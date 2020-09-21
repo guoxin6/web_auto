@@ -1,0 +1,16 @@
+- config:
+    name: logincase
+-test:
+    name: 登录
+    request:
+      method: POST
+      header:
+        Content-Type: application/json
+      json:
+        username: test
+        password: 123456
+    extract:
+      -token: content.token
+    validate:
+      - eq: [status_code,200]
+      - eq: [content.code, 0]

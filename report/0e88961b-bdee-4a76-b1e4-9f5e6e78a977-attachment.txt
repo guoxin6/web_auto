@@ -1,0 +1,10 @@
+正在定位元素信息：定位方式->id,value值->id_username
+正在定位元素信息：定位方式->id,value值->id_password
+正在定位元素信息：定位方式->xpath,value值->//button[text()='登录']
+正在定位元素信息：定位方式->xpath,value值->//*[@id="left-side"]/ul[1]/li[11]/a
+正在定位元素信息：定位方式->css,value值->#content-block > div.navbar.content-navbar.navbar-default.navbar-xs > div.navbar-collapse.collapse > div > a
+正在定位元素信息：定位方式->xpath,value值->//*[@id="id_n"]
+正在定位元素信息：定位方式->xpath,value值->//*[@id="articleclassify_form"]/div[2]/button
+正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[2]
+获取text失败，返回''
+保存成功后，获取到页面的信息:

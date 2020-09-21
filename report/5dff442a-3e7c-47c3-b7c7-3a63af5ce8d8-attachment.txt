@@ -1,0 +1,14 @@
+正在定位元素信息：定位方式->css,value值->#left-side > ul.well.nav.nav-pills.nav-stacked.nav-sitemenu.hide-sm > li:nth-child(9) > a
+正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[1]/div[2]/div/a
+正在定位元素信息：定位方式->name,value值->title
+正在定位元素信息：定位方式->name,value值->title
+正在定位元素信息：定位方式->xpath,value值->//*[@id="id_classify_wrap_container"]/div/div[1]
+正在定位元素信息：定位方式->css,value值->#id_classify_wrap_container > div > div.selectize-dropdown.single.adminselectwidget.form-control > div > div:nth-child(3)
+正在定位元素信息：定位方式->xpath,value值->//*[@id="id_body"]
+正在定位元素信息：定位方式->xpath,value值->//*[@id="id_body"]
+正在定位元素信息：定位方式->xpath,value值->//*[@id="id_detail"]
+正在定位元素信息：定位方式->xpath,value值->//*[@id="id_detail"]
+正在定位元素信息：定位方式->xpath,value值->//*[@id="articledetail_form"]/div[2]/button
+正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[2]
+×
+文章列表 "文章title->标题" 添加成功。
