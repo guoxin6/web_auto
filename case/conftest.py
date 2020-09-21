@@ -11,6 +11,7 @@ print(platform.system())
 def driver(request):
     '''定义全局dirver'''
     if platform.system()=='windows':
+        chrome_options = Options()
         _driver=webdriver.Chrome(chrome_options=chrome_options)
     else:
         #linux启动
@@ -23,7 +24,7 @@ def driver(request):
 
         _driver=webdriver.Chrome(chrome_options=chrome_options)
     #最大化
-    driver.maximize.window()
+    _driver.maximize_window()
 
     def end():
         '''测试用例完成后，执行终结函数'''
